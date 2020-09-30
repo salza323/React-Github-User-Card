@@ -1,0 +1,9 @@
+.followers-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+h2{
+    font-size: xx-large;
+}
